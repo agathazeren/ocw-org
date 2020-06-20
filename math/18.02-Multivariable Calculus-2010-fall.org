@@ -1,0 +1,348 @@
+* Overview
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm
+* Sylabus
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/syllabus/
+* [0/101] Unit 1: Vectors and Matrices
+This unit covers the basic concepts and language we will use throughout the course. Just like every other topic we cover, we can view vectors and matrices algebraically and geometrically. It is important that you learn both viewpoints and the relationship between them.
+** [0/40] Part A: Vectors, Determinants, and Planes
+Vectors are basic to this course. We will learn to manipulate them algebraically and geometrically. They will help us simplify the statements of problems and theorems and to find solutions and proofs.
+
+Determinants measure volumes and areas. They will also be important in part B when we use matrices to solve systems of equations.
+*** [0/8] Session 1: Vectors
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors
+**** TODO Related Readings
+**** TODO Example: Vector Addition
+**** TODO Lecture Video 
+**** TODO Example: Vector Lengths
+**** TODO Example: Force is a Vector
+**** TODO Example: Proofs Using Vectors
+**** TODO Recitation
+**** TODO Problems: Vectors
+*** [0/3] Session 2: Dot Products
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-2-dot-products
+**** TODO Lecture Video
+**** TODO Reading and Examples: Dot Product
+**** TODO Problems: Dot Product
+*** [0/4] Session 3: Uses of the Dot Product: Lengths and Angles
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-3-uses-of-the-dot-product-lengths-and-angles
+**** TODO Lecture Video
+**** TODO Examples: Uses of Dot Product
+**** TODO Recitation
+**** TODO Problem Set: Uses of Dot Product
+*** [0/4] Session 4: Vector Components
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-4-vector-components
+**** TODO Lecture Video
+**** TODO Reading and Example: Components and Projection
+**** TODO Recitation
+**** TODO Problem Set: Components
+*** [0/4] Session 5: Area and Determinants in 2D
+**** TODO Lecture Video
+**** TODO Example: Areas and Determiants
+**** TODO Recitation
+**** TODO Problems: 2x2 Determinants
+*** [0/7] Session 6: Volumes and Determinants in Space
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space
+**** TODO Lecture Video
+**** TODO Reading and Examples: Computing Determnats
+**** TODO Recitation: Determinants
+**** TODO Related Readings: Determinants Area and Volume
+**** TODO Problems: 3x3 Determinants
+**** TODO Recitation: Volume of a Parallepiped
+**** TODO Problems: Volumes and Determinants
+*** [0/5] Session 7: Cross Products
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-7-cross-products
+**** TODO Lecture: Cross Products
+**** TODO Lecture: More on Cross Products
+**** TODO Readings and Examples: Cross Product
+**** TODO Recitation: Area Using cross Product
+**** TODO Problems: Cross Products
+*** [0/3] Session 8: Equations of Planes
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-8-equations-of-planes
+**** TODO Lecture: Equations of Planes
+**** TODO Example: Equation of a Plane
+**** TODO Problems: Equation of Planes
+*** [0/2] Problem Set 1
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/problem-set-1 
+**** TODO Problem Set 1
+**** TODO Supplemental Problems
+** [0/28] Part B: Matrices and Systems of Equations
+*** [0/4] Session 9: Matrix Multiplication
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-9-matrix-multiplication
+**** TODO Lecture: Matrix Multiplication
+**** TODO Readings and Examples: Matrices
+**** TODO Recitation: Matrix Multiplication Practice
+**** TODO Problems: Matrix Multiplication
+*** [0/3] Session 10: Meaning of Matrix Multiplication
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-10-meaning-of-matrix-multiplication
+**** TODO Lecture: Meaning of Matrix Multiplication
+**** TODO Reading and Examples: Meaning of Matrix Multiplication
+**** TODO Problems: Meaning of Matrix Multiplication
+*** [0/4] Session 11: Matrix Inverses
+**** TODO Lecture: Matrix Inverses
+**** TODO Reading and Examples: Matrix Inverses
+**** TODO Recitation: Solve a Linear System using Matrices
+**** TODO Problems: Matrix Inverses
+*** [0/7] Session 12: Equations of Planes II
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii
+**** TODO Lecture: Equations of Planes
+**** TODO Reading and Examples: Equations of Planes
+**** TODO Recitation: Equations of Planes
+**** TODO Problems: Equations of Planes
+**** TODO Recitation: Distance of a Point to a Plane
+**** TODO Reading and Examples: Distances to Planes and Lines
+**** TODO Problems: Distances to Planes and Lines
+*** [0/3] Session 13: Linear Systems and Planes
+**** TODO Lecture: Linera Systems and Planes
+**** TODO Related Readings: Geometry of Linera Systems
+**** TODO Problems: Geometry of Linear Systems 
+*** [0/5] Session 14: Solutions to Square Systems
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems
+**** TODO Lecture: Solutions to Square Systems
+**** TODO Related Readings: Homogeneous and Inhomogeneous Systems
+**** TODO Example: Solutions to Linear Systems
+**** TODO Recitation: Systems of Linear Equations
+**** TODO Problems: Solutions to Linear Systems
+*** [0/2] Problem Set 2
+**** TODO Problem Set 2
+**** TODO Supplemental Problems
+** [0/29] Part C: Parametric Equations for Curves
+*** [0/4] Session 15: Equations of Lines
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-15-equations-of-lines
+**** TODO Lecture: Equations of Lines
+**** TODO Reading and Examples: Parametric Lines
+**** TODO Recitation: Parameterized Lines and Intersections
+**** TODO Problems: Parametric Equations of Lines
+*** [0/4] Session 16: Intersection of a Line and a Plane
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-16-intersection-of-a-line-and-a-plane
+**** TODO Lecture: Intersection of a Line and Plane
+**** TODO Example: Intersection of a Line and Plane
+**** TODO Recitation: Parametric Line Intersection a Plane
+**** TODO Problems: Intersection of a Line and Plane
+*** [0/4] Session 17: General Parametric Equations; the Cycloid
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-17-general-parametric-equations-the-cycloid
+**** TODO Lecture: General Parametric Equations and the Cyucloid
+**** TODO Related Resources: Cycloid Mathlet
+**** TODO Reading and Examples: Parametric Curves
+**** TODO Problems: Parametric Curves
+*** [0/2] Session 18: Point (Cusp) on Cycloid
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-18-point-cusp-on-cycloid
+**** TODO Lecture: Point (Cusp) of a Cycloid
+**** TODO Related readings: Cusp on the Cycloid
+*** [0/5] Session 19: Velocity and Acceleration
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-19-velocity-and-acceleration
+**** TODO Lecture: Velocity and Acceleration
+**** TODO Reading and Examples: Velocity and Acceleration
+**** TODO Example: Product Rule for Vector Derivatives
+**** TODO Problems: Product Rule for Vector Derivatives
+**** TODO Recitation: Differentiating a Vector Valued Function
+*** [0/5] Session 20: Velocity and Arc Length
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-20-velocity-and-arc-length
+**** TODO Lecture: Velocity and Arc Length
+**** TODO Related Reading: Velcoity, Speed, and Arc Length
+**** TODO Example: Velocity, Speed, and Arc Length
+**** TODO Recitation: Parametric Vurves: Velocity, Acceleration, Lenght
+**** TODO Problems: Vector Derivatives and Arc Length
+*** [0/3] Session 21: Kepler's Second Law
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-21-keplers-second-law
+**** TODO Leture: Kepler's Second Law
+**** TODO Related Reading: Kepler's Second Law
+**** TODO Problems: Vector Derivatives
+*** [0/2] Problem Set 3
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/problem-set-3
+**** TODO Problem Set 3
+**** TODO Supplemental Problem
+** [0/3] Exam 1
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/exam-1
+*** TODO Practice Exam 
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/exam-1/practice-exam
+*** [0/1] Session 22: Review of Topics
+**** TODO Lecture: Review of Topics
+*** [0/1] Session 23: Review of Problems
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/exam-1/session-23-review-of-problems
+**** TODO Lecture: Review of Problems
+*** TODO Exam
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives
+* [0/96] Unit 2: Partial Derivatives
+** [0/42] Part A: Functions of Two Variables, Tangent Approximation and Optimization
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization
+We start this unit by learning to visualize functions of several variables using graphs and level curves. Following this we will study partial derivatives. These will be used in the tangent approximation formula, which is one of the keys to multivariable calculus. It ties together the geometric and algebraic sides of the subject and is the higher dimensional analog of the equation for the tangent line found in single variable calculus. We will use it in part B to develop the chain rule.
+
+We will apply our understanding of partial derivatives to solving unconstrained optimization problems. (In part C we will solve constrained optimization problems.)
+
+*** [0/6] Session 24: Functions of Two Variables: Graphs
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-24-functions-of-two-variables-graphs
+**** TODO Lecture: Functions of Two Variables: Graphs
+**** TODO Reading and Examples: Graphing Functions of Two Variables
+**** TODO Recitation: Graphing Surfaces
+**** TODO Related Reading: Gallery of Quadratic Surfaces
+**** TODO Related Resource: Functions of Two Variables Mathlet
+**** TODO Problems: Graphing a Function
+*** [0/6] Session 25: Level Curves and Contour Plots
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-25-level-curves-and-contour-plots
+**** TODO Lecture: Level Curves and Contour Plots
+**** TODO Reading and Examples: Level Curves and Contour Plots
+**** TODO Recitation: Level Curves
+**** TODO Recitation: Level Curves and Critical Points
+**** TODO Related Resource: Functions of Two Variables Mathlet
+**** TODO Problems: Contour Plots
+*** [0/4] Session 26: Partial Derivatives
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-26-partial-derivatives
+**** TODO Lecture: Partial Derivatives
+**** TODO Related Readings: Partial Derivatives
+**** TODO Recitation: Partial Derivatices
+**** TODO Problems: Partial Derivatives
+*** [0/6] Session 27: Approximation Formula
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-27-approximation-formula
+**** TODO Lecture: Approximation Formula
+**** TODO Reading and Example: The Tangen Approimation
+**** TODO Reading and Example: Non-Geometric Argument for the Approximation Formula
+**** TODO Recitation: Tangent Plane Apporoximation
+**** TODO Example: Tangent Approximation
+**** TODO Problmes: Tangent Approximiation
+*** [0/3] Session 28: Optimization Problems
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-28-optimization-problems
+**** TODO Lecture: Optimization Problems
+**** TODO Reading and Examples: Critical Ppoits
+**** TODO Problmes; Critical Points
+
+*** [0/5] Session 29: Least Squares
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares
+**** TODO Lecture: Least Squares
+**** TODO Reading and Examples: Least Squares Interpolation
+**** TODO Example: Least Squares
+**** TODO Recitation: Least Squares
+**** TODO Problems: Least Squares
+*** [0/7] Session 30: Second Derivative Test
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-30-second-derivative-test
+**** TODO Lecture: Quadratic Example
+**** TODO Lecture: Second Dericatice Test
+**** TODO Related Reading: Second Derivative Test
+**** TODO Example: Second Derivative Test
+**** TODO Related Resources: Functions of Two Variales Mathlet
+**** TODO Recitation: Second Derivative Test
+**** TODO Problems Second Derivative Test
+*** [0/2] Session 31: Example
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example
+**** TODO Lecture: Example
+**** TODO Recitation: Max/Min
+*** [0/3] Problem Set 4
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4 
+**** TODO Problem Set 4
+**** TODO Supplemental Problmes
+**** TODO Functions fo Two Variables Mathlet
+** [0/26] Part B: Chain Rule, Gradient and Directional Derivatives
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives
+As in single variable calculus, there is a multivariable chain rule. The version with several variables is more complicated and we will use the tangent approximation and total differentials to help understand and organize it.
+
+Also related to the tangent approximation formula is the gradient of a function. The gradient is one of the key concepts in multivariable calculus. It is a vector field, so it allows us to use vector techniques to study functions of several variables. Geometrically, it is perpendicular to the level curves or surfaces and represents the direction of most rapid change of the function. Analytically, it holds all the rate information for the function and can be used to compute the rate of change in any direction.
+*** [0/3] Session 32: Total Differentials and the Chain Rule
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-32-total-differentials-and-the-chain-rule
+**** TODO Lecture: Total Differentials and Chain Rule
+**** TODO Example: Chain Rule and Total Differentials
+**** TODO Problems: Chain Rule and Total Differentials
+*** [0/2] Session 33: Examples
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-33-examples
+**** TODO Lecture: Examples
+**** TODO Problems: Chain Rule
+*** [0/5] Session 34: The Chain Rule with More Variables
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-34-the-chain-rule-with-more-variables
+**** TODO Lecture: Chain Rule with More Variables
+**** TODO Reading and Examples: Chain Rule
+**** TODO Example: Chain Rule with more Variables
+**** TODO Recitation: Total Differentials and the Chain Rule
+**** TODO Problems: Chain Rule Practice
+*** [0/3] Session 35: Gradient: Definition, Perpendicular to Level Curves
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-35-gradient-definition-perpendicular-to-level-curves 
+**** TODO Lecture: Definition, Perpendicular to Level Curves
+**** TODO Reading and Examples: Gradient: Definition and Properties
+**** TODO Problems: Elliptic Paraboloid
+*** [0/3] Session 36: Proof
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-36-proof
+**** TODO Lecture: Proof
+**** TODO Reading and Examples: Proof the Gradient is Perpendicular to Level Curves and Surfaces
+**** TODO Problems: Gradient and Level Curves
+*** [0/4] Session 37: Example
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-37-example
+**** TODO Lecture: Example
+**** TODO Examples: Equation fo the Tangent Plane Using the Gradient
+**** TODO Recitation: Tangent Planes
+**** TODO Problems: Equation of a Tangent
+*** [0/4] Session 38: Directional Derivatives
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-38-directional-derivatives
+**** TODO Lecture: Directional Derivatives
+**** TODO Reading and Examples: Direction Derivatives
+**** TODO Recitation: Gradient and Directional Derivatices
+**** TODO Problems: Directional Derivat
+*** [0/2] Problem Set 5
+**** TODO Problem Set 5
+**** TODO Supplemental Problems
+** [0/23] Part C: Lagrange Multipliers and Constrained Differentials
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials
+In this part we will study a new type of optimization problem: that of finding the maximum (or minimum) value of a function w = f(x, y, z) when we are only allowed to consider points (x, y, z) which are constrained to lie on a surface. The technique we will use to solve these problems is called Lagrange multipliers.
+*** [0/4] Session 39: Statement of Lagrange Multipliers and Example
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-39-statement-of-lagrange-multipliers-and-example
+**** TODO Lecture: Lagrange Multipliers by Example
+**** TODO Reading and Examples: Lagrange Multipliers
+**** TODO Recitation: Lagrange Multipliers
+**** TODO Problems and Solutions
+*** [0/3] Session 40: Proof of Lagrange Multipliers
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-40-proof-of-lagrange-multipliers
+**** TODO Lecture: Proof of Lagrance Multipliers
+**** TODO Related Readings: Proof of Lagrange Multiplers
+**** TODO Related Resource: Lagrange Multipliers Mathlet
+*** [0/4] Session 41: Advanced Example
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-41-advanced-example
+**** TODO Lecture: Advanced Example
+**** TODO Recitation: Lagrange Multpliers
+**** TODO Problems: Lagrange Multipliers
+*** [0/3] Session 42: Constrained Differentials
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-42-constrained-differentials
+**** TODO Lecture: Constrained Differentials
+**** TODO Example: Non-Independent Variables
+**** TODO Problems: Non-independent Variables
+*** [0/5] Session 43: Clearer Notation
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-43-clearer-notation
+**** TODO Lecture: Clearer Notation
+**** TODO Reading and Examples: Non-Independent Variables
+**** TODO Recitation: The Chain Rule with Constraints
+**** TODO Reading and Example: Non-Independent Variables
+**** TODO Problems: The Chain Rule with Constraints
+*** [0/3] Session 44: Example
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-44-example
+**** TODO Lecture: Example
+**** TODO Recitation: Gradients - Composition
+**** TODO Problems: Chain Rule with Constraint
+*** [0/2] Problem Set 6
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/problem-set-6 
+**** TODO Problem Set 6
+**** TODO Supplemental Problems
+** [0/5] Exam 2
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/exam-2
+*** TODO Practice Exam
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/exam-2/practice-exam
+*** [0/2] Session 45: Review of Topics
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/exam-2/session-45-review-of-topics
+**** TODO Related Reading: Partil Differential Equations
+**** TODO Lecture: Review of Topics
+*** [0/1] Session 46: Review of Problems
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/exam-2/session-46-review-of-problems
+**** TODO Lecture: Review of Problems
+*** TODO Exam Materials
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/exam-2/exam-materials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Unit 3: Double Integrals and Line Integrals in the Plane
+* Unti 4: Triple Integrals and Surgace Integrals in 3-Space
+* Final Exam
